@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dev1
+=======
+Travail de Dev1
+>>>>>>> 1464e39 (feat: fichier dev1)
